@@ -21,5 +21,17 @@
     <ClCompile Include="02_ShallowCopyError.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="03_PassObjCopycon.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="04_ReturnObjCopycon.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="05_IKnowTempObj.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="06_ReturnObjDeadTime.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
